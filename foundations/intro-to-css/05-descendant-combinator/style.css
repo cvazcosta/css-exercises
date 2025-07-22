@@ -1,0 +1,31 @@
+/* Estilizando apenas por type selectors */
+/* div p {
+  background-color: rgb(245, 245, 156);
+  color: rgb(189, 4, 4);
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* Estilizando apenas por class selectors */
+/* .container .text {
+  background-color: rgb(245, 245, 156);
+  color: rgb(189, 4, 4);
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* Estilizando por type e class selector */
+/* div .text {
+  background-color: rgb(245, 245, 156);
+  color: rgb(189, 4, 4);
+  font-size: 20px;
+  text-align: center;
+} */
+
+/* Estilizando por class e type selector */
+.container p {
+  background-color: rgb(245, 245, 156);
+  color: rgb(189, 4, 4);
+  font-size: 20px;
+  text-align: center;
+}
